@@ -2,7 +2,7 @@
 Практическое задание от SkillFactory по Module E7 
 
 Запуск приложения: 
-- https://github.com/m-v-kalashnikov/module-e7.git 
+- git clone https://github.com/m-v-kalashnikov/module-e7.git 
 - cd module-e7 
 - docker-compose up -d 
 
